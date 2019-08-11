@@ -8,3 +8,5 @@ branch1
 search 1
 
 show 1
+
+show-branch1
