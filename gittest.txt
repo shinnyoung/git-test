@@ -12,3 +12,5 @@ show 1
 show-branch1
 
 show-branch1-commit2
+
+show-branch1-commit3
